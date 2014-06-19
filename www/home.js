@@ -35,6 +35,6 @@ module.exports = {
      * @param {Function} completeCallback   The callback that is called when user clicks on a button.
      */
     home: function(successCallback, errorCallback) {
-        exec(successCallback, errorCallback, 'Home', 'goHome');
+        exec(successCallback, null, 'Home', 'goHome', [successCallback, errorCallback]);
     }
 };
