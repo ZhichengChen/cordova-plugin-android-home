@@ -23,7 +23,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/Home.java" target-dir="src/org/apache/cordova/Home" />
+        <source-file src="src/android/Home.java" target-dir="src/org/apache/cordova/home" />
 
     </platform>
 

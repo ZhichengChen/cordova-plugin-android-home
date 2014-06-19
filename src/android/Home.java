@@ -17,7 +17,7 @@
        under the License.
 */
 
-package org.apache.cordova.plugin;
+package org.apache.cordova.home;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -25,8 +25,8 @@ import org.json.JSONException;
 import android.content.Intent;
 import android.util.Log;
 
-import org.apache.cordova.api.CallbackContext;
-import org.apache.cordova.api.CordovaPlugin;
+import org.apache.cordova.CallbackContext;
+import org.apache.cordova.CordovaPlugin;
 
 public class Home extends CordovaPlugin {
 
