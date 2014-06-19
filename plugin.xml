@@ -19,7 +19,7 @@
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Home">
-                <param name="android-package" value="org.apache.cordova.home"/>
+                <param name="android-package" value="org.apache.cordova.home.Home"/>
             </feature>
         </config-file>
 

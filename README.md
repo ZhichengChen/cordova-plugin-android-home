@@ -7,7 +7,7 @@ Base on [http://stackoverflow.com/questions/17826122/send-application-to-backgro
     
 #Usage
  
-    navigator.home(succesCallback, errorCallback)
+    navigator.home.home(succesCallback, errorCallback)
     
 * **succesCallback**: Callback to invoke when home is success. (*Function*)
 * **errorCallback**: Callback to invoke when error occor. (*Function*)
@@ -16,7 +16,7 @@ Base on [http://stackoverflow.com/questions/17826122/send-application-to-backgro
 
 #Example
 
-    navigator.home(function(){
+    navigator.home.home(function(){
         console.info("Successfully launched home intent");
     }, function(){
         console.error("Error launching home intent");
