@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="org.apache.cordova.dialogs"
+           id="org.apache.cordova.home"
       version="0.2.6">
 
     <name>Android Home</name>
@@ -23,7 +23,7 @@
             </feature>
         </config-file>
 
-        <source-file src="src/android/home.java" target-dir="src/org/apache/cordova/home" />
+        <source-file src="src/android/Home.java" target-dir="src/org/apache/cordova/Home" />
 
     </platform>
 
