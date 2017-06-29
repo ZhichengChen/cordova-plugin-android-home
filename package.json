@@ -1,0 +1,34 @@
+
+{
+  "name": "cordova-plugin-android-home",
+  "version": "0.0.1",
+  "description": "Android Home Button",
+  "cordova": {
+    "id": "cordova-plugin-android-home",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=7.0.0"
+    }
+  ],
+  "author": "Werner Venter <werner.venter@britehouse.co.za>",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "
+}
+
+
+
+
+
