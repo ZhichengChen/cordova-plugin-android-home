@@ -1,0 +1,21 @@
+{
+  "name": "org.apache.cordova.home",
+  "version": "0.2.6",
+  "description": "Cordova Android Home Plugin.",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhichengChen/cordova-plugin-android-home"
+  },
+  "keywords": [
+    "cordova",
+    "home",
+    "cordova-android"
+  ],
+  "author": "ZhichengChen",
+  "license": "Apache 2.0"
+}
